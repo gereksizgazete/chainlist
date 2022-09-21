@@ -27,6 +27,12 @@
             "https://node.expanse.tech"
         ]
     },
+    "481": {
+        "rpcs": [
+            "https://chain.scimatic.net",
+            "https://chain.scimatic.online"
+        ]
+    },
     "80001": {
         "rpcs": [
             "https://rpc.ankr.com/polygon_mumbai",
